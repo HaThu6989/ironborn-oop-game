@@ -4,3 +4,11 @@
   /* relative to size of the screen. 50vh = 50% */
   height: 100vh;
 }
+
+.player {
+  position: absolute;
+  background-color: rgb(23, 162, 113);
+  height: 20px;
+  /*to do: remove*/
+  width: 120px;
+}

@@ -1,0 +1,6 @@
+#board {
+  background-color: rgb(163, 218, 255);
+  outline: 1px solid rgb(56, 175, 255);
+  /* relative to size of the screen. 50vh = 50% */
+  height: 100vh;
+}
